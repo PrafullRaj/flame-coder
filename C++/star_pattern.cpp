@@ -72,3 +72,4 @@ cout<<endl<<endl<<endl;
     }
     return 0;
 }
+//O(n)
