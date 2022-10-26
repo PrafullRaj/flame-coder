@@ -36,3 +36,4 @@ int main()
 	max(xyz, abc);	
 	return 0;
 }
+//time complexity O(n)
