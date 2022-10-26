@@ -28,3 +28,4 @@ for(i=1;i<n;i++)
 cout<<”\n”<<a[i];
 getch();
 }
+//time complexity O(n)
